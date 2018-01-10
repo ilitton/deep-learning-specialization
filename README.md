@@ -11,10 +11,10 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
    - Shallow neural networks
    - Deep neural networks
  - **Programming Assignments:**
-   1. [Logistic Regression with a Neural Network Mindset](./Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-   2. [Planar Data Classification with one Hidden Layer](Planar_data_classification_with_one_hidden_layer.ipynb)
-   3. [Building your Deep Neural Network Step by Step](Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-   4. [Deep Neural Network Application](Deep_Neural_Network_Application.ipynb)
+   1. [Logistic Regression with a Neural Network Mindset](NN_DL/logistic_regression_with_a_neural_network_mindset.ipynb)
+   2. [Planar Data Classification with one Hidden Layer](NN_DL/planar_data_classification_with_one_hidden_layer.ipynb)
+   3. [Building your Deep Neural Network Step by Step](NN_DL/building_your_deep_neural_network_step_by_step.ipynb)
+   4. [Deep Neural Network Application](NN_DL/deep_neural_network_application.ipynb)
    
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Improving_DNNs)
  - **Summary:** 
@@ -23,11 +23,11 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
    - Hyperparameter tuning
    - Batch normalization 
 - **Programming Assignments:** 
-  1. [Initialization](Initialization.ipynb)
-  2. [Regularization](Regularization.ipynb)
-  3. [Gradient Checking](Gradient+Checking.ipynb)
-  4. [Optimization Methods](Optimization+methods.ipynb)
-  5. [Tensorflow Tutorial](Tensorflow+Tutorial.ipynb)
+  1. [Initialization](Improving_DNNs/initialization.ipynb)
+  2. [Regularization](Improving_DNNs/regularization.ipynb)
+  3. [Gradient Checking](Improving_DNNs/gradient_checking.ipynb)
+  4. [Optimization Methods](Improving_DNNs/optimization_methods.ipynb)
+  5. [Tensorflow Tutorial](Improving_DNNs/tensorflow_tutorial.ipynb)
    
 ### [Course 3: Structuring Machine Learning Projects](ML_Strategy)
  - **Summary:** 
@@ -41,8 +41,8 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
      - Transfer learning
      - Multi-task learning
 - **Case Studies:**
-  1. [Bird Recognition Case Study](Bird_Recognition_Case_Study)
-  2. [Autonomous Driving Case Study](Autonomous_Driving_Case_Study)
+  1. [Bird Recognition Case Study](ML_Strategy/Bird_Recognition_Case_Study.md)
+  2. [Autonomous Driving Case Study](ML_Strategy/Autonomous_Driving_Case_Study.md)
 
 ### [Course 4: Convolutional Neural Networks](CNN)
  - **Summary:** 
@@ -53,12 +53,12 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
    - Neural style transfer
    
  - **Programming Assignments:**
-   1. [Convolutional Model: Step by Step](Convolutional_Model_step_by_step.ipynb)
-   2. [Convolutional_Model: Application](Convolutional_model_application.ipynb)
-   3. [Residual Networks](Residual_networks.ipynb)
-   4. [Car Detection with YOLOv2](autonomous_driving_application_car_detection.ipynb)
-   5. [Art Generation with Neural Style Transfer](Art_generation_with_Neural_Style_Transfer.ipynb)
-   6. [Face Recognition for the Happy House](Face_Recognition_for_the_Happy_House.ipynb)
+   1. [Convolutional Model: Step by Step](CNN/convolution_model_step_by_step.ipynb)
+   2. [Convolutional_Model: Application](CNN/convolution_model_application.ipynb)
+   3. [Residual Networks](CNN/residual_networks.ipynb)
+   4. [Car Detection with YOLOv2](CNN/autonomous_driving_application_car_detection.ipynb)
+   5. [Art Generation with Neural Style Transfer](CNN/art_generation_with_neural_style_transfer.ipynb)
+   6. [Face Recognition for the Happy House](CNN/face_recognition_for_the_happy_house.ipynb)
  
 ### [Course 5: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
  - Course starts in January
