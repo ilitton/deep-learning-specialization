@@ -1,5 +1,5 @@
 # deep-learning-specialization
---
+
 This repository contains all my code for Andrew Ng's **[deep learning specialization]()** on Coursera.
 
 ## Overview
@@ -12,9 +12,9 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
    - Deep neural networks
  - **Programming Assignments:**
    1. [Logistic Regression with a Neural Network Mindset](./Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-   - [Planar Data Classification with one Hidden Layer](Planar_data_classification_with_one_hidden_layer.ipynb)
-   - [Building your Deep Neural Network Step by Step](Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-   - [Deep Neural Network Application](Deep_Neural_Network_Application.ipynb)
+   2. [Planar Data Classification with one Hidden Layer](Planar_data_classification_with_one_hidden_layer.ipynb)
+   3. [Building your Deep Neural Network Step by Step](Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+   4. [Deep Neural Network Application](Deep_Neural_Network_Application.ipynb)
    
 #### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](Improving_Deep_Neural_Networks)
  - **Summary:** 
@@ -56,7 +56,7 @@ This repository contains all my code for Andrew Ng's **[deep learning specializa
    1. [Convolutional Model: Step by Step](Convolutional_Model_step_by_step.ipynb)
    2. [Convolutional_Model: Application](Convolutional_model_application.ipynb)
    3. [Residual Networks](Residual_networks.ipynb)
-   4. [Car Detection with YOLOv2](Car_detection_with YOLOv2.ipynb)
+   4. [Car Detection with YOLOv2](autonomous_driving_application_car_detection.ipynb)
    5. [Art Generation with Neural Style Transfer](Art_generation_with_Neural_Style_Transfer.ipynb)
    6. [Face Recognition for the Happy House](Face_Recognition_for_the_Happy_House.ipynb)
  
