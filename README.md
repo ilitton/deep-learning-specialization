@@ -1,6 +1,6 @@
 # deep-learning-specialization
 
-This repository contains all my code for Andrew Ng's **[deep learning specialization]()** on Coursera.
+This repository contains all my code for Andrew Ng's **[deep learning specialization](https://www.coursera.org/specializations/deep-learning)** on Coursera.
 
 ## Overview
 
